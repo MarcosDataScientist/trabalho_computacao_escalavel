@@ -1,4 +1,18 @@
-# Trabalho de Computação Escalável - Grupo 6
+<div align="center">
+
+# Trabalho de Computação Escalável — Grupo 6
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Computa%C3%A7%C3%A3o+Escal%C3%A1vel+2026%2F2;Processamento+Paralelo+e+Distribu%C3%ADdo;Gaussian+Mixture+Models+(GMM)+-+Clustering;Decomposi%C3%A7%C3%A3o+de+Dados+e+Tarefas)](https://github.com/MarcosDataScientist/trabalho_computacao_escalavel)
+
+<br />
+
+<img src="./assets/gmm_em_clustering.gif" width="360" alt="Gaussian Mixture Models (EM Clustering) Animation" style="border-radius: 8px;" />
+
+<p><em>Visualização da convergência iterativa do algoritmo Expectation-Maximization (EM) para Gaussian Mixture Models (GMM)</em></p>
+
+</div>
+
+---
 
 Repositório dedicado ao desenvolvimento do Trabalho Prático da disciplina de **Computação Escalável** (2026/2).
 
