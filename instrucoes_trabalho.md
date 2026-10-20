@@ -14,6 +14,7 @@ Este documento centraliza todas as instruções oficiais, requisitos específico
 * **Status no Classroom:** Fechado (registrado na planilha oficial da turma em 12/10/2026)
 * **Tarefa Escolhida:** Agrupamento / Clustering
 * **Algoritmo / Proposta:** GMM (*Gaussian Mixture Models*) / PCA
+* **Repositório GitHub:** [MarcosDataScientist/trabalho_computacao_escalavel](https://github.com/MarcosDataScientist/trabalho_computacao_escalavel)
 * **Planilha Oficial:** [Planilha de Organização dos Grupos](https://docs.google.com/spreadsheets/d/1LHmx90xq5qtyfymDBIdLKNk3OIvnywu50Y1za-kMxKg/edit?usp=drive_web)
 
 ---
@@ -78,6 +79,6 @@ Conforme apresentado em sala e documentado no material oficial (**Slide 35** da 
    * O grupo reservou **GMM (*Gaussian Mixture Models*)** na planilha da turma (podendo integrar com PCA para redução dimensional ou explorar decomposições clássicas do algoritmo Expectation-Maximization).
 3. **Plano de Execução Imediato:**
    * [ ] Definir as 2 estratégias de decomposição do GMM (ex.: Decomposição de Amostras/Dados no E-step vs. Paralelismo de Misturas/Clusters no M-step, ou `ExecutorService` vs. `ForkJoinPool`).
-   * [ ] Criar o repositório no GitHub para o projeto.
+   * [x] Criar o repositório no GitHub para o projeto ([MarcosDataScientist/trabalho_computacao_escalavel](https://github.com/MarcosDataScientist/trabalho_computacao_escalavel)) e convidar a equipe.
    * [ ] Separar e preparar os 2 datasets (10k a 150k linhas).
    * [ ] Enviar o formulário inicial do Google Classroom até 25/10.
