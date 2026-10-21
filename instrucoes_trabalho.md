@@ -15,6 +15,7 @@ Este documento centraliza todas as instruções oficiais, requisitos específico
 * **Tarefa Escolhida:** Agrupamento / Clustering
 * **Algoritmo / Proposta:** GMM (*Gaussian Mixture Models*) / PCA
 * **Repositório GitHub:** [MarcosDataScientist/trabalho_computacao_escalavel](https://github.com/MarcosDataScientist/trabalho_computacao_escalavel)
+* **Quadro de Tarefas (Projects):** [GitHub Project #8](https://github.com/users/MarcosDataScientist/projects/8)
 * **Planilha Oficial:** [Planilha de Organização dos Grupos](https://docs.google.com/spreadsheets/d/1LHmx90xq5qtyfymDBIdLKNk3OIvnywu50Y1za-kMxKg/edit?usp=drive_web)
 
 ---

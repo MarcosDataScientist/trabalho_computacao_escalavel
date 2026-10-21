@@ -23,6 +23,11 @@ Repositório dedicado ao desenvolvimento do Trabalho Prático da disciplina de *
 
 ---
 
+## 📋 Gestão do Projeto
+* **Quadro Kanban (GitHub Projects):** [Computação Escalável - Trabalho Semestral (Project #8)](https://github.com/users/MarcosDataScientist/projects/8)
+
+---
+
 ## 📌 Escopo do Projeto (Grupo de 3 Pessoas)
 * **Tarefa:** Agrupamento / Clustering
 * **Algoritmo:** GMM (*Gaussian Mixture Models*)
